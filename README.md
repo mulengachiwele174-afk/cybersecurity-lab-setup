@@ -180,8 +180,7 @@ nslookup networkwalks.com
 ```text
 [Paste your own nmap --version and nslookup output here]
 ```
-
-![Network verification tests](screenshots/10-network-tests.png)
+![Network verification tests](Screenshots/Screenshots/Verify%20networking%20and%20security%20tools.png)
 *Figure 10: Kali terminal output showing the IP, route, and connectivity checks.*
 
 ### Step 11: Take a clean snapshot
