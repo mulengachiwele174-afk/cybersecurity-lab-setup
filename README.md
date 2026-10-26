@@ -139,7 +139,8 @@ sudo nmcli con down "Wired connection 1"
 sudo nmcli con up "Wired connection 1"
 ```
 
-![Static IP configuration](screenshots/07-static-ip.png)
+![Static IP configuration](https://github.com/mulengachiwele174-afk/cybersecurity-lab-setup/blob/a33d29c1a486b634417b5172807babf97ef975bb/Screenshots/Screenshots/Static%20and%20DNS.png)
+
 *Figure 7: Static IP, gateway, and DNS configured with nmcli.*
 
 ### Step 8: Configure the shared folder & Verify the shared folder inside Kali
