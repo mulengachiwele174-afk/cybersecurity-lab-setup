@@ -188,7 +188,7 @@ nslookup networkwalks.com
 
 Once the configuration and checks were complete, I created a clean VirtualBox snapshot named **Clean Baseline**. This gives me a known-good restore point before I begin future security exercises or make changes to the VM.
 
-![Clean Baseline snapshot](screenshots/11-snapshot.png)
+![Clean Baseline snapshot](Screenshots/Screenshots/Snapshot.png)
 *Figure 11: Clean Baseline snapshot of the Kali Linux VM.*
 
 ## 🧰 Troubleshooting
