@@ -92,7 +92,7 @@ cd ~/Downloads
 
 After opening VirtualBox, I created a custom NAT Network with the prefix `10.0.0.0/24`. DHCP was enabled in the VirtualBox network settings.
 
-![NAT Network configuration](https://github.com/mulengachiwele174-afk/cybersecurity-lab-setup/blob/d72bd5892d69ef96332b6ad249fd183dda87f263/Screenshots/Screenshots/Creat%20Nat.png)
+![NAT Network configuration](https://github.com/mulengachiwele174-afk/cybersecurity-lab-setup/blob/02a3879096830a9546eae9f7e7fa2960c119c2b0/Screenshots/Screenshots/Creating%20Nat%20Addr.png)
 
 *Figure 3: Creating the VirtualBox NAT Network with the 10.0.0.0/24 prefix.*
 
