@@ -148,7 +148,8 @@ I added my host's Downloads folder as a VirtualBox shared folder and enabled aut
 
 After starting Kali, I checked that the shared folder was mounted and that a file could be viewed from inside the VM. This confirmed that the host-to-guest file-sharing configuration was working.
 
-![Shared folder verification](screenshots/09-shared-folder-verify.png)
+![Shared folder verification](https://github.com/mulengachiwele174-afk/cybersecurity-lab-setup/blob/df2a274b73cfed7cdd523a1040ada2e7ac0431d2/Screenshots/Screenshots/Shared%20Folder.png)
+
 *Figure 8-9: The shared folder and its file visible inside Kali Linux.*
 
 ### Step 10: Verify networking and security tools
