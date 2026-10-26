@@ -104,8 +104,7 @@ I imported the extracted Kali Linux virtual appliance into VirtualBox using the 
 ### Step 4: Attach Kali Linux to the NAT Network
 
 In the Kali VM's Network settings, I attached Adapter 1 to the custom NAT Network. This connects Kali to the private `10.0.0.0/24` virtual network.
-
-![Kali network adapter attached to the NAT Network](screenshots/04-adapter-natnetwork.png)
+![Kali network adapter attached to the NAT Network](Screenshots/Screenshots/YOUR%20FILE%20NAME.png)
 *Figure 4: Attaching the Kali Linux network adapter to the custom NAT Network.*
 
 ### Step 5: Configure the VM resources
