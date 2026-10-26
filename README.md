@@ -142,14 +142,9 @@ sudo nmcli con up "Wired connection 1"
 ![Static IP configuration](screenshots/07-static-ip.png)
 *Figure 7: Static IP, gateway, and DNS configured with nmcli.*
 
-### Step 8: Configure the shared folder
+### Step 8: Configure the shared folder & Verify the shared folder inside Kali
 
 I added my host's Downloads folder as a VirtualBox shared folder and enabled auto-mount. This allows me to move permitted lab files between the Fedora host and the Kali VM without repeatedly configuring a new transfer method.
-
-![Shared folder configuration](screenshots/08-shared-folder.png)
-*Figure 8: The host Downloads folder configured as a VirtualBox shared folder.*
-
-### Step 9: Verify the shared folder inside Kali
 
 After starting Kali, I checked that the shared folder was mounted and that a file could be viewed from inside the VM. This confirmed that the host-to-guest file-sharing configuration was working.
 
