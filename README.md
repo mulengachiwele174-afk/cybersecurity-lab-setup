@@ -88,13 +88,6 @@ sudo dnf install 7zip 7zip-plugins
 cd ~/Downloads
 7z x kali-linux-*-virtualbox-amd64.7z
 ```
-
-![Installing 7-Zip on Fedora](screenshots/01-install-7zip.png)
-*Figure 1: Installing the 7-Zip utilities on Fedora Linux.*
-
-![Extracting the Kali Linux archive](screenshots/02-extract-kali.png)
-*Figure 2: Extracting the Kali Linux archive from the Fedora terminal.*
-
 ### Step 2: Create the NAT Network
 
 After opening VirtualBox, I created a custom NAT Network with the prefix `10.0.0.0/24`. DHCP was enabled in the VirtualBox network settings.
