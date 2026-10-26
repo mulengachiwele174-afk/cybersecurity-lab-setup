@@ -113,7 +113,8 @@ In the Kali VM's Network settings, I attached Adapter 1 to the custom NAT Networ
 
 I reviewed the Kali VM settings and allocated resources suitable for my laptop: 4 GB of RAM and 2 virtual CPUs. I also checked the display settings so that the VM would run smoothly.
 
-![Kali VM settings](screenshots/05-vm-settings.png)
+![Kali VM settings](https://github.com/mulengachiwele174-afk/cybersecurity-lab-setup/blob/eb731912dd02f29b23e83388d9a4bf20616c840a/Screenshots/Screenshots/Kali%20Linux%20virtual%20machine%20settings%20and%20resource%20allocation.png)
+
 *Figure 5: Kali Linux virtual machine settings and resource allocation.*
 
 ### Step 6: Enable bidirectional clipboard and drag and drop
