@@ -92,7 +92,8 @@ cd ~/Downloads
 
 After opening VirtualBox, I created a custom NAT Network with the prefix `10.0.0.0/24`. DHCP was enabled in the VirtualBox network settings.
 
-![NAT Network configuration](screenshots/03-nat-network.png)
+![NAT Network configuration](https://github.com/mulengachiwele174-afk/cybersecurity-lab-setup/blob/d72bd5892d69ef96332b6ad249fd183dda87f263/Screenshots/Screenshots/Creat%20Nat.png)
+
 *Figure 3: Creating the VirtualBox NAT Network with the 10.0.0.0/24 prefix.*
 
 ### Step 3: Import the extracted Kali Linux appliance
