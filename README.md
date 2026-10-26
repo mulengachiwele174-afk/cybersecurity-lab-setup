@@ -118,7 +118,8 @@ I reviewed the Kali VM settings and allocated resources suitable for my laptop: 
 
 In the VirtualBox **General → Advanced** settings, I set Shared Clipboard and Drag and Drop to **Bidirectional**. This makes it easier to transfer commands and small pieces of text between Fedora and Kali while working in the lab.
 
-![Bidirectional clipboard and drag and drop](screenshots/06-clipboard-dragdrop.png)
+![Bidirectional clipboard and drag and drop](https://github.com/mulengachiwele174-afk/cybersecurity-lab-setup/blob/0f229587bcfcca8e68cc82efdeeb0ee020ae0ae9/Screenshots/Screenshots/Enable%20bidirectional%20clipboard%20and%20drag%20and%20drop.png)
+
 *Figure 6: Shared Clipboard and Drag and Drop configured as Bidirectional.*
 
 ### Step 7: Configure the Kali static IP
