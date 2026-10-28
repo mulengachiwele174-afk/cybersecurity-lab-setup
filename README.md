@@ -52,7 +52,7 @@ I completed the setup on the following laptop:
 
 | Component | Details |
 |-----------|---------|
-| Hardware model | Lenovo ThinkPad X1 Carbon 6th Gen (20KH) |
+| Hardware model | Lenovo ThinkPad X1 Carbon 6th |
 | Host operating system | Fedora Linux (Workstation Edition) |
 | Processor | Intel Core i7-8650U @ 1.90 GHz (4 cores, 8 logical processors) |
 | Memory | 16 GB |
